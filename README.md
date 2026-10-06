@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavel%20Hasan%20Joy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavel%20Hasan%20Joy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Software%20Engineer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=Aspiring+Full-Stack+Software+Engineer+%F0%9F%92%BB;CSE+Student+%40+ULAB+%F0%9F%8E%93;NASA+Space+Apps+Challenge+Participant+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+TypeScript+%E2%9A%A1;Crafting+impactful+solutions+with+code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=Aspiring+Full-Stack+Software+Engineer+%F0%9F%92%BB;CSE+Student+%40+ULAB+%F0%9F%8E%93;NASA+Space+Apps+Participant+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+Java+%E2%9A%A1;Crafting+impactful+solutions+with+code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 > 📍 Based in **Dhaka, Bangladesh 🇧🇩**  
 > 🚀 **NASA Space Apps Challenge Participant**
 
-I am an aspiring **Full-Stack Software Engineer** and **AI Enthusiast** with a strong foundation in core Computer Science concepts, object-oriented design, and problem solving. I love turning innovative ideas into robust, scalable applications.
+I am an aspiring **Full-Stack Software Engineer** passionate about building robust, efficient software systems. With a strong foundation in core Computer Science, Object-Oriented Programming (OOP), and Data Structures & Algorithms, I love solving complex challenges and crafting clean code.
 
 ```ts
 const pavel = {
@@ -39,13 +39,14 @@ const pavel = {
   education: "B.Sc. in CSE @ University of Liberal Arts Bangladesh (ULAB)",
   location : "Dhaka, Bangladesh 🇧🇩",
   passions : [
-    "Full-Stack Web Development",
-    "Algorithms & System Design",
-    "AI & Spatio-Temporal Data"
+    "Software Engineering",
+    "Object-Oriented Programming & DSA",
+    "Building Scalable Solutions"
   ],
-  stack    : ["C", "C++", "Java", "Python", "TypeScript", "JavaScript"],
+  stack    : ["C", "C++", "Java"],
   building : [
-    "Climate-Lens — 3D spatio-temporal climate analysis tool with NASA data"
+    "Climate-Lens — 3D climate analysis tool with NASA data",
+    "ulab-setu     — Campus & academic platform for ULAB"
   ],
-  openTo   : ["Software Engineering Internships", "Open Source", "Collaborative Projects"]
+  openTo   : ["Software Engineering Internships", "Collaborative Projects"]
 };
