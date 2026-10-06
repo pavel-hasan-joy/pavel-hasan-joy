@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavel%20Hasan%20Joy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Software%20Engineer&descAlignY=55&descAlign=50" />
 </div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=Aspiring+Full-Stack+Software+Engineer+%F0%9F%92%BB;CSE+Student+%40+ULAB+%F0%9F%8E%93;NASA+Space+Apps+Participant+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+Java+%E2%9A%A1;Crafting+impactful+solutions+with+code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <a href="https://github.com/pavel-hasan-joy">
     <img src="https://img.shields.io/github/followers/pavel-hasan-joy?label=Followers&style=social" />
@@ -18,12 +21,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" />
   </a>
 </div>
+
 ---
+
 ## 🧑‍💻 About Me
+
 > 🎓 **Computer Science & Engineering Student** at **University of Liberal Arts Bangladesh (ULAB)**  
 > 📍 Based in **Dhaka, Bangladesh 🇧🇩**  
 > 🚀 **NASA Space Apps Challenge Participant**
+
 I am an aspiring **Full-Stack Software Engineer** passionate about building robust, efficient software systems. With a solid foundation in core Computer Science, Object-Oriented Programming (OOP), and Data Structures & Algorithms, I love solving complex challenges and crafting clean code.
+
 ```ts
 const pavel = {
   name     : "Pavel Hasan Joy",
@@ -42,3 +50,66 @@ const pavel = {
   ],
   openTo   : ["Software Engineering Internships", "Collaborative Projects"]
 };
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [Climate-Lens](https://github.com/pavel-hasan-joy/Climate-Lens)
+
+> **NASA Space Apps Challenge Project**  
+> A 3D spatio-temporal climate analysis tool for Bangladesh exploring historical trends, current status, and future environmental projections powered by NASA data.
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![NASA](https://img.shields.io/badge/NASA_Space_Apps-Project-blue?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌉 [ulab-setu](https://github.com/pavel-hasan-joy/ulab-setu)
+
+> **Campus & Academic Platform**  
+> A dedicated project designed for ULAB students to bridge academic resources, collaboration, and connectivity.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavel-hasan-joy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-hasan-joy&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavel-hasan-joy&theme=github_dark&hide_border=true" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect and build something awesome together! 🤝</sub>
+</div>
