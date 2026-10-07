@@ -24,11 +24,11 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## 🧑‍💻 About Me
 
-> ðŸŽ“ **Computer Science & Engineering Student** at **University of Liberal Arts Bangladesh (ULAB)**  
-> ðŸ“ Based in **Dhaka, Bangladesh ðŸ‡§ðŸ‡©**  
-> ðŸš€ **NASA Space Apps Challenge Participant**
+> 🎓 **Computer Science & Engineering Student** at **University of Liberal Arts Bangladesh (ULAB)**  
+> 📍 Based in **Dhaka, Bangladesh 🇧🇩**  
+> 🚀 **NASA Space Apps Challenge Participant**
 
 I am an aspiring **Full-Stack Software Engineer** passionate about building robust, efficient software systems. With a solid foundation in core Computer Science, Object-Oriented Programming (OOP), and Data Structures & Algorithms, I love solving complex challenges and crafting clean code.
 
@@ -37,7 +37,7 @@ const pavel = {
   name     : "Pavel Hasan Joy",
   role     : "Aspiring Full-Stack Software Engineer",
   education: "B.Sc. in CSE @ University of Liberal Arts Bangladesh (ULAB)",
-  location : "Dhaka, Bangladesh ðŸ‡§ðŸ‡©",
+  location : "Dhaka, Bangladesh 🇧🇩",
   passions : [
     "Software Engineering",
     "Object-Oriented Programming & DSA",
@@ -45,8 +45,8 @@ const pavel = {
   ],
   stack    : ["C", "C++", "Java"],
   building : [
-    "Climate-Lens â€” 3D climate analysis tool with NASA data",
-    "ulab-setu     â€” Campus & academic platform for ULAB"
+    "Climate-Lens — 3D climate analysis tool with NASA data",
+    "ulab-setu     — Campus & academic platform for ULAB"
   ],
   openTo   : ["Software Engineering Internships", "Collaborative Projects"]
 };
@@ -54,7 +54,7 @@ const pavel = {
 
 ---
 
-## ðŸ› ï¸ Languages & Tools
+## 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -66,13 +66,13 @@ const pavel = {
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ðŸŒ [Climate-Lens](https://github.com/pavel-hasan-joy/Climate-Lens)
+### 🌍 [Climate-Lens](https://github.com/pavel-hasan-joy/Climate-Lens)
 
 > **NASA Space Apps Challenge Project**  
 > A 3D spatio-temporal climate analysis tool for Bangladesh exploring historical trends, current status, and future environmental projections powered by NASA data.
@@ -86,7 +86,7 @@ const pavel = {
 </td>
 <td width="50%" valign="top">
 
-### ðŸŒ‰ [ulab-setu](https://github.com/pavel-hasan-joy/ulab-setu)
+### 🌉 [ulab-setu](https://github.com/pavel-hasan-joy/ulab-setu)
 
 > **Campus & Academic Platform**  
 > A dedicated project designed for ULAB students to bridge academic resources, collaboration, and connectivity.
@@ -105,7 +105,7 @@ const pavel = {
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavel-hasan-joy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
@@ -119,5 +119,5 @@ const pavel = {
 ---
 
 <div align="center">
-  <sub>Let's connect and build something awesome together! ðŸ¤</sub>
+  <sub>Let's connect and build something awesome together! 🤝</sub>
 </div>
