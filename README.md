@@ -118,6 +118,17 @@ const pavel = {
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/pavel-hasan-joy?theme=dark&font=baloo&ext=activity" alt="Pavel's LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <sub>Let's connect and build something awesome together! 🤝</sub>
 </div>
+
