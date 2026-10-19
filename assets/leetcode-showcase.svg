@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="auto" fill="none">
+  <defs>
+    <!-- Animated Gradient for Glowing Border -->
+    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFA116">
+        <animate attributeName="stop-color" values="#FFA116;#8a2be2;#00f2fe;#FFA116" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#FF4500">
+        <animate attributeName="stop-color" values="#FF4500;#00f2fe;#8a2be2;#FF4500" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8a2be2">
+        <animate attributeName="stop-color" values="#8a2be2;#FFA116;#00f2fe;#8a2be2" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Glassmorphic Card Gradients -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.98" />
+    </linearGradient>
+
+    <linearGradient id="boxBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#21262d" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#161b22" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.08">
+        <animate attributeName="offset" values="-1; 2" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Drop Shadow Filters -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+
+    <filter id="glowOrange" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="pingFilter">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif; font-weight: 700; font-size: 20px; fill: #ffffff; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif; font-size: 13px; fill: #8b949e; }
+    .box-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif; font-weight: 600; font-size: 13px; }
+    .box-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif; font-size: 11px; fill: #8b949e; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif; font-size: 11px; font-weight: 600; fill: #58a6ff; }
+    
+    @keyframes radarPing {
+      0% { r: 4px; opacity: 1; stroke-width: 1px; }
+      100% { r: 12px; opacity: 0; stroke-width: 3px; }
+    }
+    
+    @keyframes floatSlow {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-3px); }
+    }
+
+    @keyframes pulseLogo {
+      0%, 100% { transform: scale(1); filter: drop-shadow(0 0 2px #ffa116); }
+      50% { transform: scale(1.05); filter: drop-shadow(0 0 10px #ffa116); }
+    }
+
+    .pulse-radar {
+      animation: radarPing 2s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+    }
+    
+    .floating-container {
+      animation: floatSlow 4s ease-in-out infinite;
+    }
+
+    .logo-pulse {
+      transform-origin: 48px 48px;
+      animation: pulseLogo 3s ease-in-out infinite;
+    }
+  </style>
+
+  <g class="floating-container">
+    <!-- Outer Border with Neon Animated Gradient -->
+    <rect x="6" y="6" width="838" height="238" rx="18" fill="none" stroke="url(#neonGlow)" stroke-width="2.5" filter="url(#shadow)" />
+
+    <!-- Main Card Body -->
+    <rect x="8" y="8" width="834" height="234" rx="16" fill="url(#cardBg)" />
+    
+    <!-- Shimmer Overlay -->
+    <rect x="8" y="8" width="834" height="234" rx="16" fill="url(#shimmerGrad)" />
+
+    <!-- Top Left: LeetCode Animated Icon -->
+    <g transform="translate(32, 28)">
+      <!-- Pulsing Glow Ring around Logo -->
+      <circle cx="24" cy="24" r="28" fill="#ffa116" fill-opacity="0.1" />
+      
+      <!-- LeetCode SVG Logo -->
+      <g class="logo-pulse">
+        <path d="M28.5 8.5C31.5 5.5 36.5 5.5 39.5 8.5L42 11C43.5 12.5 43.5 15 42 16.5L34 24.5C32.5 26 30 26 28.5 24.5L26 22C24.5 20.5 24.5 18 26 16.5L28.5 14" stroke="#FFA116" stroke-width="3" stroke-linecap="round"/>
+        <path d="M12.5 24.5C9.5 27.5 9.5 32.5 12.5 35.5L22.5 45.5C25.5 48.5 30.5 48.5 33.5 45.5L43.5 35.5C45 34 45 31.5 43.5 30C42 28.5 39.5 28.5 38 30L28 40C26.5 41.5 24 41.5 22.5 40L14.5 32C13 30.5 13 28 14.5 26.5L17 24" stroke="#FFA116" stroke-width="3.2" stroke-linecap="round"/>
+        <line x1="20" y1="28" x2="34" y2="28" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- Header Titles -->
+    <g transform="translate(100, 38)">
+      <text x="0" y="0" class="title">LeetCode Algorithmic Problem Solving</text>
+      <text x="0" y="22" class="subtitle">Data Structures • Algorithms • Optimization • Continuous Growth</text>
+    </g>
+
+    <!-- Top Right: Live Activity Pill with Radar Ping -->
+    <g transform="translate(640, 32)">
+      <rect x="0" y="0" width="175" height="32" rx="16" fill="#1f242c" stroke="#30363d" stroke-width="1" />
+      <!-- Radar Ping circle -->
+      <circle cx="20" cy="16" r="6" stroke="#2ea043" class="pulse-radar" fill="none" />
+      <circle cx="20" cy="16" r="4.5" fill="#3fb950" />
+      <text x="36" y="20" class="badge-text" fill="#3fb950">ACTIVE SOLVER</text>
+    </g>
+
+    <!-- Middle Bento Row: 3 Feature Cards -->
+    <!-- Card 1: Data Structures -->
+    <g transform="translate(32, 95)">
+      <rect x="0" y="0" width="246" height="98" rx="12" fill="url(#boxBg)" stroke="#30363d" stroke-width="1" />
+      <rect x="14" y="14" width="32" height="32" rx="8" fill="#238636" fill-opacity="0.2" />
+      <text x="23" y="36" font-size="16">🧠</text>
+      <text x="56" y="28" class="box-title" fill="#3fb950">Core Foundations</text>
+      <text x="56" y="44" class="box-desc">Arrays, HashMaps, Strings</text>
+      <text x="14" y="78" class="box-desc" fill="#7ee787">Mastering space &amp; time limits</text>
+    </g>
+
+    <!-- Card 2: Algorithms & DP -->
+    <g transform="translate(302, 95)">
+      <rect x="0" y="0" width="246" height="98" rx="12" fill="url(#boxBg)" stroke="#30363d" stroke-width="1" />
+      <rect x="14" y="14" width="32" height="32" rx="8" fill="#d29922" fill-opacity="0.2" />
+      <text x="23" y="36" font-size="16">⚡</text>
+      <text x="56" y="28" class="box-title" fill="#e3b341">Algorithms &amp; Logic</text>
+      <text x="56" y="44" class="box-desc">Two Pointers, Sliding Window</text>
+      <text x="14" y="78" class="box-desc" fill="#f0883e">Recursion, Trees &amp; Search</text>
+    </g>
+
+    <!-- Card 3: Consistency & Growth -->
+    <g transform="translate(572, 95)">
+      <rect x="0" y="0" width="246" height="98" rx="12" fill="url(#boxBg)" stroke="#30363d" stroke-width="1" />
+      <rect x="14" y="14" width="32" height="32" rx="8" fill="#a371f7" fill-opacity="0.2" />
+      <text x="23" y="36" font-size="16">🔥</text>
+      <text x="56" y="28" class="box-title" fill="#bc8cff">Daily Consistency</text>
+      <text x="56" y="44" class="box-desc">Clean, idiomatic code</text>
+      <text x="14" y="78" class="box-desc" fill="#a5d6ff">Leveling up day by day 🚀</text>
+    </g>
+
+    <!-- Bottom Status Line / CTA -->
+    <g transform="translate(32, 218)">
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif" font-size="12" fill="#8b949e">
+        Profile Handle: <tspan fill="#ffa116" font-weight="600">@pavel-hasan-joy</tspan> • Target: Full-Stack Engineering Excellence
+      </text>
+      <text x="786" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif" font-size="12" font-weight="600" fill="#58a6ff">
+        View LeetCode Profile ➔
+      </text>
+    </g>
+  </g>
+</svg>
