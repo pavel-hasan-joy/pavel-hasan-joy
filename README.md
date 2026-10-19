@@ -118,12 +118,40 @@ const pavel = {
 
 ---
 
-## 🧩 LeetCode Stats
+## ⚡ Problem Solving & LeetCode Journey
+
+<div align="center">
+  <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFA116&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Mastering+Algorithms+%26+Data+Structures;%F0%9F%A7%A0+Continuous+Problem+Solving+on+LeetCode;%F0%9F%94%A5+Practicing+Clean%2C+Optimal+Solutions;%F0%9F%8F%86+Focusing+on+Core+Computer+Science" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
+    <img src="assets/leetcode-showcase.svg" width="97%" alt="LeetCode Animated Showcase" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
     <img src="https://www.readmecodegen.com/api/leetcode-stats?username=pavel-hasan-joy&theme=github_dark" alt="LeetCode Stats" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-8a2be2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 ---
