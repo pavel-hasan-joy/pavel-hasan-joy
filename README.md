@@ -130,15 +130,11 @@ const pavel = {
 
 <div align="center">
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="assets/leetcode-showcase.svg" width="97%" alt="LeetCode Animated Showcase" />
+    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=pavel-hasan-joy&theme=github_dark" alt="LeetCode Stats" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=pavel-hasan-joy&theme=github_dark&cache_bust=1" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/pavel-hasan-joy/graph?theme=dark" alt="LeetCode Submission Graph" />
   </a>
 </div>
 
