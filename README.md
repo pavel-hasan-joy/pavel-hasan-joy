@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=620&lines=Aspiring+Full-Stack+Software+Engineer+%F0%9F%92%BB;CSE+Student+%40+ULAB+%F0%9F%8E%93;NASA+Space+Apps+Participant+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+Java+%E2%9A%A1;Crafting+impactful+solutions+with+code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB%20Aspiring%20Full-Stack%20Software%20Engineer%20%26%20AI%20and%20ML%20Engineer%20(%20Learning%20);%F0%9F%A7%A0%20Bridging%20Algorithms%2C%20Systems%20%26%20Deep%20Learning;%F0%9F%A4%96%20Exploring%20Modern%20AI%2C%20LLMs%20%26%20Smart%20Agents;%F0%9F%92%A1%20Turning%20Complex%20Data%20into%20Actionable%20Intelligence;%F0%9F%9A%80%20CSE%20%40%20ULAB%20%7C%20NASA%20Space%20Apps%20Participant" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,18 +28,20 @@
 
 > 🎓 **Computer Science & Engineering Student** at **University of Liberal Arts Bangladesh (ULAB)**  
 > 📍 Based in **Dhaka, Bangladesh 🇧🇩**  
-> 🚀 **NASA Space Apps Challenge Participant**
+> 🚀 **NASA Space Apps Challenge Participant**  
+> 💡 *"Crafting end-to-end full-stack software empowered by Machine Learning and modern AI capabilities."*
 
-I am an aspiring **Full-Stack Software Engineer** passionate about building robust, efficient software systems. With a solid foundation in core Computer Science, Object-Oriented Programming (OOP), and Data Structures & Algorithms, I love solving complex challenges and crafting clean code.
+I am an aspiring **Full-Stack Software Engineer & AI/ML Engineer (Learning)** passionate about building robust, efficient software systems. With a solid foundation in core Computer Science, Object-Oriented Programming (OOP), and Data Structures & Algorithms, I love solving complex challenges and crafting clean code.
 
 ```ts
 const pavel = {
   name     : "Pavel Hasan Joy",
-  role     : "Aspiring Full-Stack Software Engineer",
+  role     : "Aspiring Full-Stack Software Engineer & AI/ML Engineer",
   education: "B.Sc. in CSE @ University of Liberal Arts Bangladesh (ULAB)",
   location : "Dhaka, Bangladesh 🇧🇩",
   passions : [
     "Software Engineering",
+    "Machine Learning & AI Engineering",
     "Object-Oriented Programming & DSA",
     "Building Scalable Solutions"
   ],
@@ -120,9 +122,11 @@ const pavel = {
 
 ## ⚡ Problem Solving & LeetCode Journey
 
+> *"Optimizing Complex Logic for High-Performance AI Pipelines"*
+
 <div align="center">
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFA116&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Mastering+Algorithms+%26+Data+Structures;%F0%9F%A7%A0+Continuous+Problem+Solving+on+LeetCode;%F0%9F%94%A5+Practicing+Clean%2C+Optimal+Solutions;%F0%9F%8F%86+Focusing+on+Core+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=%E2%9A%A1%20Optimizing%20Complex%20Logic%20for%20High-Performance%20AI%20Pipelines;%F0%9F%A7%A0%20Continuous%20Problem%20Solving%20on%20LeetCode;%F0%9F%94%A5%20Practicing%20Clean%2C%20Optimal%20Algorithmic%20Solutions;%F0%9F%8F%86%20Computational%20Foundations%20for%20Machine%20Learning" alt="Typing SVG" />
   </a>
 </div>
 
